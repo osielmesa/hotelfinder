@@ -25,7 +25,7 @@ class LoadingModal extends Component {
         visible={loading}>
         <View style={styles.overlay}>
           <View style={{height:80}}>
-            <MaterialIndicator color={theme.colors.primary} size={40}/>
+            <MaterialIndicator color={theme.colors.secondWelcomeScreen} size={40}/>
           </View>
           <Text style={styles.loadingText}>{loadingText}</Text>
         </View>
