@@ -9,7 +9,7 @@ const theme = {
     messageColor:'#43A047',
     errorColor:'#F44336',
     headerTintColor:'#FFFFFF',
-    statusBarColor:'#31766C',
+    statusBarColor:'#3949AB',
     secondWelcomeScreen:'#0091EA',
     forthWelcomeScreen:'#00838F',
     starsColor:'#FB8C00'
